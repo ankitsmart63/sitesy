@@ -1,0 +1,2 @@
+# sitesy
+static wordpress site
